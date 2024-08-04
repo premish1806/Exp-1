@@ -1,27 +1,22 @@
-# C-Basics
-
+# Experiment 1
 This repository is a collection of basic programming examples aimed at beginners. It includes simple implementations of the classic "Hello, World!" program and calculator.
 
 <br>
-<p align="center">
-<strong>Experiment No 1A</strong>
-</p>
+## 1.A Simple ‘Hello World’ program
 
-## Aim
-
+### Aim
 To print "Hello, World!" in C++.
 
-## Software Used
-
+### Software Used
 - Dev C++
 
-## Theory
-
+### Theory
 C++ is a high-level, general-purpose programming language designed for system and application programming. It was developed by Bjarne Stroustrup at Bell Labs in 1983 as an extension of the C programming language. C++ is an object-oriented, multi-paradigm language that supports procedural, functional, and generic programming styles.
 <br>
 In the "Hello, World!" program, the cout function from the iostream library is used to print output to the console. The iostream library is part of the C++ Standard Library, providing essential functionalities for handling input and output operations. By including using namespace std;, the program avoids the necessity of prefixing standard library names with std::, thereby simplifying the code and enhancing readability.
 <br>
-## Algorithm
+<strong> Algorithm: </strong>
+<br>
 Step 1: Start
 <br>
 Step 2: Display Hello World
@@ -30,12 +25,10 @@ Step 3: Stop
 <br>
 ## Program Code
 
-cpp
-// HelloWorld.cpp
-// Otniel Jhirad
-// ENTC A3
-// 23070123069
-
+```cpp
+// Premish Ninawe
+// ENTC B1
+// 23070123092
 #include <iostream>
 using namespace std;
 
@@ -44,8 +37,8 @@ int main()
     cout << "Hello, World!" << endl; 
     return 0;
 }
-
-## Output
+```
+### Output
 
 <br>
 ## Conclusion
