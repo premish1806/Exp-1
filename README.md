@@ -41,7 +41,7 @@ int main()
 ### Output
 
 <br>
-## Conclusion
+## Conclusion:
 Hence, we learned how to print text in C++ using the cout function.
 <br>
 <br>
@@ -50,11 +50,9 @@ Hence, we learned how to print text in C++ using the cout function.
 </p>
 
 ## Aim
-
 To make a basic calculator in C++.
 
 ## Software Used
-
 - Dev C++
 
 ## Theory
@@ -86,12 +84,10 @@ Step 9: End
 <br>
 ## Program Code
 ```cpp
-// Name - Otniel Jhirad
-// PRN - 23070123069
-
+// Name - Premish Ninawe
+// PRN - 23070123092
 #include <iostream>
 using namespace std;
-
 int main() {
     float num1, num2;
     cout << "Please enter the first number: ";
@@ -102,7 +98,6 @@ int main() {
     cout << "The difference when subtracting " << num2 << " from " << num1 << " is: " << num1 - num2 << "\n";
     cout << "The result of dividing " << num1 << " by " << num2 << " is: " << num1 / num2 << "\n";
     cout << "The product of " << num1 << " and " << num2 << " is: " << num1 * num2 << "\n";
-
     return 0;
 }
 ```
