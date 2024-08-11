@@ -40,8 +40,7 @@ int main()
 
 ### Output
 
-<br>
-## Conclusion:
+### Conclusion:
 Hence, we learned how to print text in C++ using the cout function.
 <br>
 
