@@ -100,7 +100,8 @@ int main() {
 ```
 
 ### Output
-![image](https://github.com/user-attachments/assets/d672f627-fbbf-47eb-9a8b-8890a0a4d9a2)
+![image](https://github.com/user-attachments/assets/076d2d80-9085-4840-8521-4a2d86036efc)
+
 <br>
 ## Conclusion
 Hence, we learned how to perform basic arithmetic operations in C++ using user input and output functions.
