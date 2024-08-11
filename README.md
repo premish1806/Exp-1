@@ -38,7 +38,9 @@ int main()
 }
 ```
 
-### Output
+### Output:
+![image](https://github.com/user-attachments/assets/fa1d6166-0105-49c4-9d3f-78141c3cf5cd)
+
 
 ### Conclusion:
 Hence, we learned how to print text in C++ using the cout function.
