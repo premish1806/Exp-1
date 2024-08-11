@@ -1,7 +1,6 @@
 # Experiment 1
 This repository is a collection of basic programming examples aimed at beginners. It includes simple implementations of the classic "Hello, World!" program and calculator.
 
-<br>
 ## Progam 1: Simple ‘Hello World’ program
 
 ### Aim
