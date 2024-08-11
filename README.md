@@ -104,6 +104,5 @@ int main() {
 ### Output
 ![image](https://github.com/user-attachments/assets/076d2d80-9085-4840-8521-4a2d86036efc)
 
-<br>
-## Conclusion
+### Conclusion:
 Hence, we learned how to perform basic arithmetic operations in C++ using user input and output functions.
